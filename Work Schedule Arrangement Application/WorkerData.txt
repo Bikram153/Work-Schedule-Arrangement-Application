@@ -1,0 +1,4 @@
+Alpha:Sunday,Tuesday
+Bravo:Monday,Saturday
+Charlie:Tuesday,Friday
+Delta:Wednesday,Monday
